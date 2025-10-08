@@ -35,3 +35,17 @@ HTTP (HyperText Transfer Protocol) é o protocolo que permite a
 comunicação entre cliente e servidor.
 ex: http://vivian.com
 (São mais seguros os que tem https://)
+
+
+Funciona como uma "linguagem comum" para que sistemas conversem.
+
+Exemplo:
+Cliente -> um estagiário pede algo.
+Servidor -> um gerente que responde.
+HTTP -> a "lingua oficial" para se entenderem.
+
+# PRINCIPAIS MÉTODOS HTTP
+GET -> buscar informações (ex: "Quero ver todos os clientes")
+POST -> enviar informações (ex: "Cadastrar novo usuário")
+PUT -> atualizar informações (ex: "Alterar senha do usuário")
+DELETE -> remover informações (ex: "Deletar conta")
