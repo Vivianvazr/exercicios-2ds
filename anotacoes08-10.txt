@@ -1,0 +1,37 @@
+// O QUE É BACKEND E O QUE É CLIENTE E SERVIDOR
+
+O QUE É BACKEND?
+- Backend é a parte do sistema que roda no servidor e processa as regras de negócio.
+- É responsável por:
+    - Gerenciar o banco de dados
+    - Processar requisições do CLIENTE
+    - Aplicar regras de negócio
+    - Retornar respostas (dados)
+
+Ex: No iFood, o backend cuida de salvar pedidos,
+verificar formas de pagamento e comunicar os restaurantes.
+
+===============================================================================
+
+CLIENTE X SERVIDOR
+
+Cliente => onde o usuário interage (navegador, app do celular)
+Servidor => onde ficam as regras e o banco de dados
+
+1. O cliente faz uma requisição -> "Quero ver todos os produtos disponíveis"
+2. O servidor processa -> busca no banco de dados
+3. O servidor devolve a resposta -> lista de produtos
+
+Ex:
+# Cliente: aplicativo de um banco (usuário pede saldo)
+# Servidor: processa e retorna os dados do saldo em tempo real
+
+================================================================================
+
+// ENTENDENDO O PROTOCOLO E MÉTODOS HTTP
+
+O QUE É HTTP?
+HTTP (HyperText Transfer Protocol) é o protocolo que permite a 
+comunicação entre cliente e servidor.
+ex: http://vivian.com
+(São mais seguros os que tem https://)
