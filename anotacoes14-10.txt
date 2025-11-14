@@ -1,0 +1,30 @@
+// FORMAS DE FAZER O BACKEND 😉
+- Backend Tradicional => Monolítico
+Vantagem: fácil de iniciar
+Desvantagem: difícil de escalar quando o sistema cresce
+
+- Backend moderno => Microserviço
+Vantagem: escalabilidade e manutenção separada
+Desvantagem: mais complexidade e curso de infraestrutura
+
+- Backend Headless => API
+
+// ENTENDENDO O QUE É API, SDK E FORMATO DE RESPOSTA 😊
+- API: Aplication Programming Interface - conjunto de regras que 
+permitem que um sistema converse com outro
+
+lojadojohn.com.br -> página inicial da loja
+lojadojonh.com.br/carrinho
+lojadojonh.com.br/produto-xyz
+
+138.123.123.122/produto
+127.0.0.1/xyz
+localhost/xyz
+
+- SDK: Software Development Kit - um pacote de ferramentas e 
+bibliotecas fornecidas por uma empresa para facilitar o uso da API
+
+- Formatos de Resposta
+-- XML / JSON
+
+

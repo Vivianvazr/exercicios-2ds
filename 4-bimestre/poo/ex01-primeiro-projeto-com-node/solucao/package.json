@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD:4-bimestre/poo/ex01-npm/package.json
+  "name": "ex01-npm",
+  "version": "1.0.0",
+  "description": "No arquivo chamado `pessoa.js`, exporte uma função chamada **apresentarPessoa**.",
+=======
+  "name": "solucao",
+  "version": "1.0.0",
+  "description": "",
+>>>>>>> origin/main:4-bimestre/poo/ex01-primeiro-projeto-com-node/solucao/package.json
+  "main": "pessoa.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./pessoa.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+<<<<<<< HEAD:4-bimestre/poo/ex01-npm/package.json
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
+=======
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
+>>>>>>> origin/main:4-bimestre/poo/ex01-primeiro-projeto-com-node/solucao/package.json
