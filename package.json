@@ -1,0 +1,12 @@
+{
+  "name": "exercicios-2ds",
+  "version": "1.0.0",
+  "description": "Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
